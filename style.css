@@ -1,0 +1,26 @@
+.header{
+    display: flex;
+    justify-content: center;
+}
+.container{
+    font-style: roboto;
+    background-color: #1F2937;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* flex-direction: column; */
+}
+.text1{
+    font-weight: 900;
+    font-size: 48px;
+    color: #F9FAF8;
+}
+.text2{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+.text3{
+    font-size: 24px;
+    color: #F9FAF8;
+}
