@@ -1,26 +1,27 @@
-.header{
-    display: flex;
-    justify-content: center;
-}
-.container{
+.top{
     font-style: roboto;
     background-color: #1F2937;
     color: white;
     display: flex;
     justify-content: center;
     align-items: center;
-    /* flex-direction: column; */
 }
-.text1{
-    font-weight: 900;
-    font-size: 48px;
-    color: #F9FAF8;
-}
-.text2{
-    font-size: 18px;
-    color: #E5E7EB;
-}
-.text3{
+.logo{
     font-size: 24px;
     color: #F9FAF8;
+    padding: 10px;
+    /* margin-right : 300px; */
+    gap: 30px;
 }
+.link{
+    display: flex;
+    font-size: 18px;
+    color: #E5E7EB;
+    justify-content: center;
+    align-items: center;
+
+}
+.link a{
+    padding :20px 80px;
+}
+
